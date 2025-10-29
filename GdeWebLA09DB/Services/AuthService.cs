@@ -194,7 +194,7 @@ namespace GdeWebLA09DB.Services
             {
                 // használd a saját log szolgáltatásod
                 await _logService.WriteLogToFile(ex, "Login hiba");
-                return new LoginUserModel { Result = ResultTypes.UnexpectedError };
+                return new LoginUserModel { Result = ResultTypes.UnexpectedError }; // Megjegyzés
             }
         }
     }
