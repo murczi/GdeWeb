@@ -49,4 +49,4 @@ Ez a dokumentum a szövegfelolvasás (Text-to-Speech) bővítéseit foglalja ös
   - Simon Armin - FTP30P
   - Varga Zoltan - UBRK9A
   - Pitner Alexandra - JZ1D6D
-  -Dudas Norbert - I22BZY
+  - Dudas Norbert - I22BZY
