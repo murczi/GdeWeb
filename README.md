@@ -44,9 +44,9 @@ Ez a dokumentum a szövegfelolvasás (Text-to-Speech) bővítéseit foglalja ös
 - UI-ban: nyiss meg egy kurzust, kattints a „Hangos felolvasás” gombra, válassz hangszínt/tempót, a mondatok a lejátszás közben kiemelve követik a hangot. Kvízben a kérdések automatikusan felolvasásra kerülnek.
 
 
-Diakok:
-  Alter Marcell - PYMQAG  
-  Simon Armin - FTP30P
-  Varga Zoltan - UBRK9A
-  Pitner Alexandra - JZ1D6D
-  Dudas Norbert - I22BZY
+## Diakok:
+  - Alter Marcell - PYMQAG  
+  - Simon Armin - FTP30P
+  - Varga Zoltan - UBRK9A
+  - Pitner Alexandra - JZ1D6D
+  -Dudas Norbert - I22BZY
